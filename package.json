@@ -1,6 +1,6 @@
 {
   "name": "angular21-saqly",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A complete Angular 21 learning path with practical examples, covering Signals, Components, Templates, Directives, DI, Forms, and more \u2014 structured to match the official Angular documentation.",
   "main": "src/index.ts",
   "scripts": {
